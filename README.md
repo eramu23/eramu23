@@ -1,23 +1,48 @@
-<h1 align="center">Hi 👋, I'm Waseer Alam</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="Center" alt="coding width="25" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJiNXNlcnpkd3psejh0aWk5ZXhmZXJmZnlncjc3eHRjb2FodWNiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif">
+<h1 align="center">Hi there! 👋 I'm Waseer Alam</h1>
+<h3 align="center">Transitioning Mechanical Engineer | Data Analyst | Python Enthusiast</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eramu23&label=Profile%20views&color=0e75b6&style=flat" alt="eramu23" /> </p>
-
-- 🌱 I’m currently learning **data Analysis**
-
-- ⚡ Fun fact **I think I'm not Laughter.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="YOUR_PROFILE_PICTURE_URL" alt="Profile Picture" width="200" height="200">
 </p>
+<h3 align="left">About Me:</h3>
+<p align="left">I am a transitioning Mechanical Engineer with a passion for data analysis and visualization. My background in mechanical engineering has equipped me with strong analytical skills and attention to detail, which I am eager to apply in the field of data analysis. I am proficient in programming with Python and have experience in statistical modeling, machine learning, and SQL. My goal is to leverage my engineering background to interpret and analyze data, driving informed business decisions.</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<h3 align="left">Skills:</h3>
+<ul align="left">
+  <li>Data Analysis</li>
+  <li>Programming (Python)</li>
+  <li>Data Visualization</li>
+  <li>Statistical Modeling</li>
+  <li>Machine Learning</li>
+  <li>SQL</li>
+  <li>Excel</li>
+</ul>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eramu23&show_icons=true&locale=en&layout=compact" alt="eramu23" /></p>
+<h3 align="left">Projects:</h3>
+<ul align="left">
+  <li>Exploratory Data Analysis with Python: A collection of Jupyter Notebooks showcasing exploratory data analysis techniques using Python and popular libraries like Pandas and Matplotlib.</li>
+  <li>Predictive Modeling with Machine Learning: Implementations of various machine learning algorithms for predictive modeling tasks, including regression and classification.</li>
+  <li>Data Visualization Projects: Visualizations created using Matplotlib, Seaborn, and Plotly to communicate insights from different datasets.</li>
+  <li>SQL Query Examples: SQL queries for data retrieval and manipulation tasks, demonstrating proficiency in database management.</li>
+  <li>Excel Data Analysis: Excel spreadsheets showcasing data analysis and visualization techniques applied to real-world datasets.</li>
+</ul>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eramu23&show_icons=true&locale=en" alt="eramu23" /></p>
+<h3 align="left">Interests:</h3>
+<ul align="left">
+  <li>Exploring new datasets and conducting in-depth analysis.</li>
+  <li>Contributing to open-source data analysis projects.</li>
+  <li>Continuous learning and skill development in data analysis tools and techniques.</li>
+</ul>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eramu23&" alt="eramu23" /></p>
+<h3 align="left">Certifications:</h3>
+<ul align="left">
+  <li>Data Analyst Certification at Udemy, Coursera, and LinkedIn</li>
+</ul>
+
+<h3 align="left">Internship Projects:</h3>
+<ul align="left">
+  <li>Sales Report & Call Centre Report using Excel: Excel projects completed during an internship with Psyliq.</li>
+  <li>HR Data Analysis by Power BI: Analyzing HR data using Power BI to derive insights.</li>
+  <li>Diabetes Prediction using MySQL: Implementing a diabetes prediction model using MySQL database.</li>
+  <li>Stock Prediction using Python: Building a stock prediction model using Python programming language.</li>
+</ul>
