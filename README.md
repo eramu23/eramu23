@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Waseer Alam</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="Center" alt="coding width="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJiNXNlcnpkd3psejh0aWk5ZXhmZXJmZnlncjc3eHRjb2FodWNiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif">
+<img align="Center" alt="coding width="100" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJiNXNlcnpkd3psejh0aWk5ZXhmZXJmZnlncjc3eHRjb2FodWNiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eramu23&label=Profile%20views&color=0e75b6&style=flat" alt="eramu23" /> </p>
 
 - 🌱 I’m currently learning **data Analysis**
 
-- ⚡ Fun fact **I think I'm Laughter.**
+- ⚡ Fun fact **I think I'm not Laughter.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
