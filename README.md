@@ -1,9 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Waseer Alam</h1>
 <h3 align="center">Transitioning Mechanical Engineer | Data Analyst | Python Enthusiast</h3>
-
-<p align="center">
-  <img src="https://img.freepik.com/free-photo/revenue-operations-collage_23-2150847854.jpg?size=626&ext=jp" alt="Profile Picture" width="200" height="200">
-</p>
 <h3 align="left">About Me:</h3>
 <p align="left">I am a transitioning Mechanical Engineer with a passion for data analysis and visualization. My background in mechanical engineering has equipped me with strong analytical skills and attention to detail, which I am eager to apply in the field of data analysis. I am proficient in programming with Python and have experience in statistical modeling, machine learning, and SQL. My goal is to leverage my engineering background to interpret and analyze data, driving informed business decisions.</p>
 
